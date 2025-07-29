@@ -7,5 +7,3 @@ venv/
 .ipynb_checkpoints/
 # VS Code
 .vscode/
-# Data (if you don’t want to store raw images)
-data/

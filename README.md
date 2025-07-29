@@ -4,10 +4,10 @@ Check jupyter notebook for more info
 
 ## Files & Folders
 
-* barnacles_counter/barnacles_crop: Subtask 1
-* barnacles_counter/barnacles_analyze.py: Subtask 2
-* data: 'Barnacles' data folder
-* barnacles.ipynb: jupyter notebook
+* ```barnacles_counter/barnacles_crop```: Subtask 1
+* ```barnacles_counter/barnacles_analyze.py```: Subtask 2
+* ```data```: 'Barnacles' data folder
+* ```barnacles.ipynb```: jupyter notebook
 
 **Note**: 
 - cropped_inner_square.png and debug_final_mask.png are output from Subtask 1.
