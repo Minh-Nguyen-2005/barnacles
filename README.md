@@ -1,4 +1,4 @@
-# Minh Nguyen DALILAB Data Application
+# My Data Challenge
 
 Check jupyter notebook for more info
 
